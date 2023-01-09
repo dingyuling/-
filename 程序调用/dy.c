@@ -4,13 +4,13 @@ int main(void)
 {
 	system("dir");
 
-	char* c = "C:\\Users\\86152\\Desktop\\头像专用.jpg";
+	char* c = "C:\\Users\\86152\\Desktop\\澶村儚涓撶敤.jpg";
 	system(c);
 
 	char* x = "D:\\Yingyong\\Yingyong\\Shejiaoruanjian\\QQ\\Bin\\QQScLauncher.exe";
 	system(x);
 
-	printf("输入：“C:\\Users\\86152\\Desktop\\头像专用.jpg”\n");
+	printf("杈撳叆锛氣�淐:\\Users\\86152\\Desktop\\澶村儚涓撶敤.jpg鈥漒n");
 	system("cmd");
 
 	return 0;
